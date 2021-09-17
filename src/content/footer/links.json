@@ -1,0 +1,95 @@
+{
+  "PRODUCTS": [
+    {
+      "text": "Credit Cards",
+      "link": "/credit-cards"
+    },
+    {
+      "text": "Checking & Savings",
+      "link": "/banking"
+    },
+    {
+      "text": "Auto",
+      "link": "/auto"
+    },
+    {
+      "text": "Business",
+      "link": "/small-business"
+    },
+    {
+      "text": "Commercial",
+      "link": "/commercial"
+    },
+    {
+      "text": "Technology",
+      "link": "/tech"
+    }
+  ],
+  "GET TO KNOW US": [
+    {
+      "text": "About",
+      "link": "/about"
+    },
+    {
+      "text": "Corporate Information",
+      "link": "/about/corporate-information"
+    },
+    {
+      "text": "Newsroom",
+      "link": "/news"
+    },
+    {
+      "text": "Investors",
+      "link": "/investors"
+    },
+    {
+      "text": "Careers",
+      "link": "/careers"
+    },
+    {
+      "text": "Diversity & Inclusion",
+      "link": "/diversity"
+    }
+  ],
+  "ON THE GO": [
+    {
+      "text": "Locations & ATMs",
+      "link": "/map"
+    },
+    {
+      "text": "Mobile App",
+      "link": "/mobile"
+    }
+  ],
+  "LEGAL": [
+    {
+      "text": "Privacy",
+      "link": "/privacy"
+    },
+    {
+      "text": "Patriot Act",
+      "link": "/patriot-act"
+    },
+    {
+      "text": "Disclosures",
+      "link": "/disclosures"
+    }
+  ],
+  "SUPPORT": [
+    {
+      "text": "Contact Us",
+      "link": "/contact"
+    },
+    {
+      "text": "Support Center",
+      "link": "/support"
+    },
+    {
+      "text": "Learn & Grow",
+      "link": "/instruction"
+    },{
+      "text": "Military Resources",
+      "link": "/military"
+    }
+  ]
+}
